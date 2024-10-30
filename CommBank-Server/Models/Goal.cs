@@ -12,7 +12,6 @@ public class Goal
     public string? Name { get; set; }
 
     public string? Icon { get; set; }
-
     public UInt64 TargetAmount { get; set; } = 0;
 
     public DateTime TargetDate { get; set; }
